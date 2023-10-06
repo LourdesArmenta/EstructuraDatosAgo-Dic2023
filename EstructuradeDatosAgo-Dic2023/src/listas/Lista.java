@@ -7,7 +7,7 @@ package listas;
  * @author lourdesarmenta
  *
  */
-public class Lista<T> {
+public class Lista<T>  {
 	//primer elemento de la lista
 	private Nodo<T> cabeza;
 	//Total de elementos de la lista
@@ -152,5 +152,6 @@ public class Lista<T> {
 		cabeza = null;
 		tamanio = 0;
 	}
+	
 
 }
