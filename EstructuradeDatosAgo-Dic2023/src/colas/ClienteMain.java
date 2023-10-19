@@ -6,7 +6,7 @@ public class ClienteMain {
 		//Crear una nueva cola de enteros
 		Cola<Integer> cola = new Cola<Integer>();
 		//se encolan algunos elementos
-		cola.encolar(12);
+		cola.encolar(12);///Users/lourdesarmenta/eclipse-workspace/ListaContacto/ListaContactos/lib
 		cola.encolar(13);
 		cola.encolar(14);
 		cola.encolar(15);
